@@ -1,2 +1,2 @@
 # WIFI Bruter
-A brute fource for wifi network using SimpleWifi.dll
+A brute force for wifi network using SimpleWifi.dll
