@@ -194,7 +194,7 @@ namespace wifi_bruter
 Name (SSID)=" + wb.Name + @"
 Password=" + pp + @"
 //Cracked By Wifi Bruter
-//github.com/metal-ghost
+//https://github.com/MG-Token
 //Coded By Metal Ghost");
                                     MessageBox.Show("Wifi Cracked information saved on:\n" + AppDomain.CurrentDomain.BaseDirectory + wb.Name + ".txt", wb.Name+" Hacked");
 
@@ -264,7 +264,7 @@ Password=" + pp + @"
 
         private void label3_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/metal-ghost");
+            System.Diagnostics.Process.Start("https://github.com/MG-Token");
         }
 
         private void button1_Click(object sender, EventArgs e)
